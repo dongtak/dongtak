@@ -31,7 +31,7 @@
 <br>
 <br>
 <br> 
-   
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요;잘+부탁합니다!;let's+start+a+journey+with+me+:D)](https://git.io/typing-svg)
   <h3 align="center">🌈 Follow Me </h3>
   <br>
 <p align="center">
